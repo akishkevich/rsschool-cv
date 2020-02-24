@@ -15,14 +15,17 @@
 - Hard worker
 
 ## **SKILLS**
-|NAME|VALUES|
-|--|--|
-|  **Programming Languages** | Node.js, JavaScript, HTML/CSS |
-| **Operating Systems** |  Windows, macOS |
-| **Databases** | MongoDB |
-| **Tools and Technologies** | React.js, jQuery, Redux, Redux-saga, ES6, ES7, Express.js, SASS, PostCSS, Styled components |
-| **Other** | Version control system:  Git; Experience with Webpack, Gulp |
 
+`Programming Languages`:<br>
+  ***Node.js, JavaScript, HTML/CSS***<br>
+`Operating Systems`:<br>
+  ***Windows, macOS***<br>
+`Databases`:<br>
+***MongoDB***<br>
+`Tools and Technologies`:<br>
+***React.js, jQuery, Redux, Redux-saga, ES6, ES7, Express.js, SASS, PostCSS, Styled components***<br>
+`Other`:<br>
+***Version control system:  Git; Experience with Webpack, Gulp***<br>
 
 
 ## **PROFESSIONAL EXPERIENCE**
